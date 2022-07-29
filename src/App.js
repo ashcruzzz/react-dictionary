@@ -3,9 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <button type="button" class="btn btn-primary">
-        Primary
-      </button>
+      <h1>Dictionary</h1>
     </div>
   );
 }
