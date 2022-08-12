@@ -9,7 +9,13 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">Coded by SheCodes</footer>
+        <footer className="text-center">
+          Coded by
+          <a href="https://github.com/ashcruzzz/react-dictionary">
+            {" "}
+            Ashley Cruz
+          </a>
+        </footer>
       </div>
     </div>
   );
