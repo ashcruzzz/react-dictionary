@@ -5,4 +5,18 @@
 .App-footer {
   text-align: center;
   margin: 30px;
+  font-family: "Raleway", sans-serif;
+}
+
+body {
+  background: #fdf5df;
+  font-family: "Raleway", sans-serif;
+}
+
+a {
+  color: #123c69;
+  font-family: "Raleway", sans-serif;
+}
+main {
+  font-family: "Raleway", sans-serif;
 }
