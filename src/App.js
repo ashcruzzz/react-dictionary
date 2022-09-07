@@ -11,9 +11,13 @@ function App() {
         </main>
         <footer className="text-center">
           Coded by
-          <a href="https://github.com/ashcruzzz/react-dictionary">
+          <a href="https://www.shecodes.io/graduates/35289-ashley-cruz">
             {" "}
             Ashley Cruz
+          </a>{" "}
+          and is{" "}
+          <a href="https://github.com/ashcruzzz/react-dictionary">
+            open-sourced on GitHub
           </a>
         </footer>
       </div>
